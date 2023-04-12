@@ -1,0 +1,16 @@
+#STATIC KEYWORD
+-Static should be ---->>>Class variable, Class Method
+-non-static ----->>>>instance(object) variable,  object method--->>>that can't be initialized or can't be called 
+   without creating an object.
+-Non static Method can access non static and static variables both.
+-Static Method can ony call Static Variables.
+-To access non-static variable in static method---->>>by creating a object of itself.
+----------------------------------------------------------------------------------------------------------------------------
+#CONSTRUCTORS
+-Method with same class name.
+-they don't have rerturn type.
+-constructor can have public, private, protected access modifiers.
+----------------------------------------------------------------------------------------------------------------------------
+#CONSTRUCTOR CHAINING
+-Calling constructoe from another constructor.
+

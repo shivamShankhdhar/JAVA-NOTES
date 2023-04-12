@@ -1,0 +1,17 @@
+Rule-1.Whenever we create child class object parent class default constructor or no argument constructor is called.
+Types of Inheritance-
+1. Single Level Inheritance.
+2. Multi level Inheritance--->>>
+       -Super keyword can be used for invoking parametrized constructor.
+3. Heiracical Inheritance.
+4. Hybrid Inheritance.
+Only 4 types of inheritance is allowed in JAVA.
+---------MULTIPLE INHERITANCE NOT ALLOWED IN JAVA WITH CLASSES-------------
+
+>>Method Overriding -> when parent and child class have METHOD with same signature.
+>>Changing the behaviour of methods with the same signature.
+
+>>Method Overloading-> Same function name with different definition.
+>>Polymorphisim-->Many forms.
+    -Static Polymorpishm--->method overloading
+    -Dynamic Polymorphism--->method overriding
